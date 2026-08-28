@@ -23,6 +23,7 @@ in [4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
 ### Publications
 
 - **EyeTAG: Eye Trajectory-Aware Gaze Estimation** — BMVC 2026 &nbsp;[`code`](https://github.com/peter8366/EyeTAG)
+- **Dual-Channel Deepfake Audio Detection: Leveraging Direct and Reverberant Waveforms** — IEEE Access, 2025 &nbsp;[`paper`](https://doi.org/10.1109/ACCESS.2025.3532775)
 
 ---
 
