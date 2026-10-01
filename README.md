@@ -1,6 +1,6 @@
 # 이정민 (Jungmin Lee)
 
-##### 🏫 Graduate Student(MS), Department of Information and Telecommunication Engineering, [Soongsil University](https://ssu.ac.kr/) (Mar 2026~ TBD)
+##### 🏫 Graduate Student(MS), Department of Information and Telecommunication Engineering, [Soongsil University](https://ssu.ac.kr/) (Mar 2025–Present)
 
 ##### 🔬[4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
 
@@ -23,7 +23,7 @@ in [4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
 ### Publications
 
 - **EyeTAG: Eye Trajectory-Aware Gaze Estimation** — BMVC 2026 &nbsp;[`code`](https://github.com/peter8366/EyeTAG)
-- **Dual-Channel Deepfake Audio Detection: Leveraging Direct and Reverberant Waveforms** — IEEE Access, 2025 <sub>(co-first author)</sub> &nbsp;[`paper`](https://doi.org/10.1109/ACCESS.2025.3532775)
+- **Dual-Channel Deepfake Audio Detection: Leveraging Direct and Reverberant Waveforms** — IEEE Access, 2025 <sub>(co-first author)</sub> &nbsp;[`paper`](https://doi.org/10.1109/ACCESS.2025.3532775) &nbsp;[`code`](https://github.com/gunwoo5034/Dual-Channel-Audio-Deepfake-Detection)
 
 ---
 
